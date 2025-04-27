@@ -41,7 +41,7 @@ export default function Hero() {
         <div className="text-white text-xl mb-2">
           Hello, <span className="text-[#FFD700]">George</span>
         </div>
-        <div className="text-white text-lg">Let's find the best property for you.</div>
+        <div className="text-white text-lg">Let&apos;s find the best property for you.</div>
 
         {/* Scroll Indicator */}
         <div className="absolute bottom-12 flex flex-col items-center">

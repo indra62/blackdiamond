@@ -1,6 +1,6 @@
 import { Diamond } from "lucide-react"
 import { Taviraj } from "next/font/google"
-import Image from "next/image"
+
 
 const taviraj = Taviraj({ subsets: ["latin"], weight: ["400"] })
 

@@ -1,5 +1,5 @@
 import { MapPin, Bed, Bath, Square } from "lucide-react"
-import Image from "next/image"
+
 
 const properties = [
   {

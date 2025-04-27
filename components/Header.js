@@ -2,7 +2,7 @@
 
 import { useState } from "react"
 import Image from "next/image"
-import { Menu, ChevronDown } from "lucide-react"
+import { Menu } from "lucide-react"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import MenuOverlay from "./MenuOverlay"
 import Link from "next/link"
